@@ -11,7 +11,7 @@ Korea University <br> The Catholic University of Korea, Seoul <br> MedAI
 ## Leaderboard
 ![board](./images/leaderboard.png)
 
-## Requirements
+## Paper
 * arXiv [paper](https://arxiv.org/abs/2312.05528) link.
 
 
