@@ -2,6 +2,9 @@
 
 2nd place of the [KiTS23](https://kits-challenge.org/kits23/) Challenge (Kidney and Kidney Tumor Segmentation Challenge).
 
+Exploring 3D U-Net Training Configurations and Post-processing Strategies for the MICCAI 2023 Kidney and Tumor Segmentation Challenge.
+https://doi.org/10.1007/978-3-031-54806-2_2
+
 Kwang-Hyun Uhm, Hyunjun Cho, Zhixin Xu, Seohoon Lim, Seung-Won Jung, Sung-Hoo Hong, and Sung-Jea Ko
 
 Korea University <br> The Catholic University of Korea, Seoul <br> MedAI
